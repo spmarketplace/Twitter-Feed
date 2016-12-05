@@ -7,3 +7,4 @@
 <img style="max-width:50%;" src="https://github.com/spmpadmin/Twitter-Feed/blob/master/OpenTwitterSettings.gif"></img>
 <li>Next, open the Widgets link.</li>
 <li>Use the create button and create a widget with the feed you want.</li>
+<img style="max-width:50%;" src="https://github.com/spmpadmin/Twitter-Feed/blob/master/OpenWidgets.gif" target="_blank"></img>
